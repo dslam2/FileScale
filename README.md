@@ -5,6 +5,10 @@ Distributed database systems have been shown to be effective for scaling metadat
 FileScale is a three-tier architecture that addresses this issue by incorporating a distributed database system while maintaining comparable performance to single-machine systems at small scales and enabling linear scalability as metadata increases.
 
 
+**To deploy FileScale, please refer to the provided documentation.** 
+[Documentaion](https://github.com/dslam2/FileScale/wiki)
+
+
 
 ## License
 
